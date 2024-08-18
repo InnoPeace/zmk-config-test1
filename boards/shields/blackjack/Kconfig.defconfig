@@ -4,7 +4,7 @@
 if SHIELD_BLACKJACK
 
 config ZMK_KEYBOARD_NAME
-    default "MurphPad"
+    default "BlackJack"
 
 if ZMK_DISPLAY
 
